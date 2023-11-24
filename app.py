@@ -19,7 +19,7 @@ date = datetime.now()
 
 
 
-'''Current date and time:'''
+st.text('Current date and time: '+date)
 date
 
 ## Here we would like to add some controllers in order to ask the user to select the parameters of the ride
