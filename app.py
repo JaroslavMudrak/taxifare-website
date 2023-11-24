@@ -16,7 +16,11 @@ from datetime import datetime
 
 date = datetime.now()
 
-'Current date is: ', date
+
+
+
+'''Current date and time:'''
+date
 
 ## Here we would like to add some controllers in order to ask the user to select the parameters of the ride
 
