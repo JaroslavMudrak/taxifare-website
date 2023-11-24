@@ -10,7 +10,7 @@ from datetime import datetime
 # ''')
 
 '''
-#Taxi fare prediction
+# Taxi fare prediction
 '''
 
 
