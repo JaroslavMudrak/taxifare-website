@@ -1,7 +1,7 @@
 import streamlit as st
 
 '''
-# TaxiFareModel front
+# Taxi fare model
 '''
 
 st.markdown('''
