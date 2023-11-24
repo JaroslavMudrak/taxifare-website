@@ -5,9 +5,13 @@ from datetime import datetime
 # git commit -m 'test'
 # git push
 
-st.markdown('''
+# st.markdown('''
+# #Taxi fare prediction
+# ''')
+
+'''
 #Taxi fare prediction
-''')
+'''
 
 
 date = datetime.now()
